@@ -9,18 +9,7 @@
             "ext": "./js/drpy.js"
         }
     ],
-    "lives": [
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "https://jiamingfood.cn/iptv.m3u"
-        },
-        {
-            "name": "ipv4",
-            "type": 0,
-            "url": "https://jiamingfood.cn/iptv4.m3u"
-        }
-    ],
+    "lives":
     "parses": [
         {
             "name": "xmflv",
