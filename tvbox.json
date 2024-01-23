@@ -1,96 +1,96 @@
 {
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
+    "spider": "/jar/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
             "name": "索引 | 豆瓣",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/drpy.js"
         },
         {
-            "key": "drpy_js_奇珍异兽",
+            "key": "drpy_js_爱奇艺",
             "name": "官源 | 爱奇艺",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/iqiyi.js"
         },
         {
             "key": "drpy_js_优酷",
             "name": "官源 | 优酷",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/youku.js"
         },
         {
-            "key": "drpy_js_腾云驾雾",
+            "key": "drpy_js_腾讯视频",
             "name": "官源 | 腾讯",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/qq.js"
         },
         {
-            "key": "drpy_js_百忙无果",
+            "key": "drpy_js_芒果TV",
             "name": "官源 | 芒果",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/mgtv.js"
         },
         {
             "key": "drpy_js_量子资源",
             "name": "采集 | 量子",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/js/量子资源.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/lzcaiji.js"
         },
         {
             "key": "drpy_js_人人",
             "name": "影视 | 人人",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/rrys.js"
         },
         {
             "key": "drpy_js_低端",
             "name": "影视 | 低端",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ddys.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/ddys.js"
         },
         {
             "key": "drpy_js_农民",
             "name": "影视 | 农民",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/nmys.js"
         },
         {
             "key": "drpy_js_网飞.TV",
             "name": "影视 | 网飞",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/wftv.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "影视 | LIBVIO",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/libvio.js"
         },
         {
             "key": "drpy_js_厂长资源",
             "name": "影视 | 厂长",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/js/厂长资源.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/czsp.js"
         },
         {
             "key": "drpy_js_酷云七七",
             "name": "影视 | 酷云",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/ky77.js"
         },
         {
             "key": "csp_WoGG",
@@ -127,21 +127,21 @@
             "name": "网盘 | Alist[jar]",
             "type": 3,
             "api": "csp_AList",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+            "ext": "./lib/alist.json"
         },
         {
             "key": "drpy_js_Alist",
             "name": "网盘 | Alist[js]",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"
+            "api": "./lib/alist.min.js",
+            "ext": "./lib/alist.json"
         },
         {
             "key": "drpy_js_酷奇MV",
             "name": "MV | 酷奇",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/kqmv.js"
         }
     ],
     "lives": [
