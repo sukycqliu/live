@@ -123,15 +123,8 @@
             "ext": "f568abfbaa5b46b9975f32ad823dac86"
         },
         {
-            "key": "AList",
-            "name": "网盘 | Alist[jar]",
-            "type": 3,
-            "api": "csp_AList",
-            "ext": "./lib/alist.json"
-        },
-        {
             "key": "drpy_js_Alist",
-            "name": "网盘 | Alist[js]",
+            "name": "网盘 | Alist",
             "type": 3,
             "api": "./lib/alist.min.js",
             "ext": "./lib/alist.json"
