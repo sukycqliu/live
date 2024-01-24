@@ -86,13 +86,6 @@
             "ext": "./js/czsp.js"
         },
         {
-            "key": "drpy_js_酷云七七",
-            "name": "影视 | 酷云",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/ky77.js"
-        },
-        {
             "key": "csp_WoGG",
             "name": "阿里 | 玩偶",
             "type": 3,
