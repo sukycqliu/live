@@ -135,7 +135,8 @@
             "name": "xmflv",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
-        },{   
+        },
+        {   
             "name": "ql",
             "type": 0,
             "url": "https://t1.qlplayer.cyou/player/?url="
