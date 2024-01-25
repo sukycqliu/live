@@ -131,6 +131,11 @@
         }
     ],
     "parses": [
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
+        },
         {   
             "name": "ql",
             "type": 0,
