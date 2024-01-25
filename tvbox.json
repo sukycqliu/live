@@ -139,12 +139,12 @@
         {   
             "name": "xmflv",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
+            "url": "https://jx.xmflv.com/?url="
         },
         {
             "name": "json",
             "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url=",
+            "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
             "name": "8090",
