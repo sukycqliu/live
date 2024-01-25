@@ -135,6 +135,15 @@
             "name": "xmflv",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
+        },{   
+            "name": "ql",
+            "type": 0,
+            "url": "https://t1.qlplayer.cyou/player/?url="
+        },
+        {   
+            "name": "jy",
+            "type": 0,
+            "url": "https://jx.playerjy.com/?url="
         },
         {
             "name": "json",
@@ -142,9 +151,9 @@
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name": "8090",
+            "name": "yemu",
             "type": 0,
-            "url": "https://www.8090g.cn/?url="
+            "url": "https://www.yemu.xyz/?url="
         },
         {
             "name": "777",
