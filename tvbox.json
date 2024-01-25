@@ -131,11 +131,6 @@
         }
     ],
     "parses": [
-        {
-            "name": "Yangtu",
-            "type": 0,
-            "url": "https://jx.yangtu.top?url="
-        },
         {   
             "name": "xmflv",
             "type": 0,
