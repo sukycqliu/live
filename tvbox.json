@@ -132,9 +132,9 @@
     ],
     "parses": [
     {
-      "name": "Web聚合",
+      "name": "聚合",
       "type": 3,
-      "url": "Web"
+      "url": "Demo"
     },
     {   
       "name": "xmflv",
