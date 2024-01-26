@@ -96,7 +96,7 @@
             "key": "csp_WoGG",
             "name": "阿里 | 玩偶",
             "type": 3,
-            "api": "csp_Wogg",
+            "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
