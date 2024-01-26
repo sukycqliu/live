@@ -123,10 +123,10 @@
             "ext": "http://127.0.0.1:9978/file/tv/token.txt"
         },
         {
-            "key": "drpy_js_Alist",
+            "key": "Alist",
             "name": "网盘 | Alist",
             "type": 3,
-            "api": "./lib/alist.min.js",
+            "api": "csp_Alist",
             "ext": "./lib/alist.json"
         }
     ],
