@@ -100,7 +100,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tv/token.txt$$$https://wogg.xyz/"
         },
         {
             "key": "PanSearch",
@@ -110,7 +110,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+            "ext": "http://127.0.0.1:9978/file/tv/token.txt"
         },
         {
             "key": "Upyunso",
@@ -120,7 +120,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+            "ext": "http://127.0.0.1:9978/file/tv/token.txt"
         },
         {
             "key": "drpy_js_Alist",
