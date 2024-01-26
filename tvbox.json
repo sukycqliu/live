@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
+    "spider": "./jar/custom_spider.jar;md5;145b12c8a9a89fcc35c0494c905f2f96",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -100,7 +100,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {"token":"http://127.0.0.1:9978/file/tvbox/token.txt","site":"https://www.wogg.xyz"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
         },
         {
             "key": "PanSearch",
