@@ -86,6 +86,13 @@
             "ext": "./js/czsp.js"
         },
         {
+            "key": "drpy_js_酷奇MV",
+            "name": "MV | 酷奇",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/kqmv.js"
+        },
+        {
             "key": "csp_WoGG",
             "name": "阿里 | 玩偶",
             "type": 3,
@@ -93,7 +100,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "f568abfbaa5b46b9975f32ad823dac86$$$https://wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$https://wogg.xyz/"
         },
         {
             "key": "PanSearch",
@@ -103,7 +110,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f568abfbaa5b46b9975f32ad823dac86"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "Upyunso",
@@ -113,7 +120,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f568abfbaa5b46b9975f32ad823dac86"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "drpy_js_Alist",
@@ -121,13 +128,6 @@
             "type": 3,
             "api": "./lib/alist.min.js",
             "ext": "./lib/alist.json"
-        },
-        {
-            "key": "drpy_js_酷奇MV",
-            "name": "MV | 酷奇",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/kqmv.js"
         }
     ],
     "parses": [
