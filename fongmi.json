@@ -111,7 +111,10 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tv/token.txt$$$https://wogg.xyz/|104.16.245.50$$$1$$$./lib/wogg.json"
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tv/token.txt",
+        "filter": "./lib/wogg.json"
+      }
     },
     {
       "key": "七夜",
