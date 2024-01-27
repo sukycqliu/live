@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;2b4bff50bb61acef1e8f8654d9822f63",
+  "spider": "./jar/custom_spider.jar;md5;7d13878c01ea655d716fd1aa39b0094e",
   "sites": [
     {
       "key": "豆瓣",
@@ -11,13 +11,32 @@
       "ext": "./lib/douban.json"
     },
     {
-      "key": "玩偶",
-      "name": "阿里 | 玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tv/token.txt$$$https://wogg.xyz/|104.16.245.50$$$1$$$./lib/wogg.json"
+       "key": "drpy_js_爱奇艺",
+       "name": "官源 | 爱奇艺",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "ext": "./js/iqiyi.js"
+    },
+    {
+       "key": "drpy_js_优酷",
+       "name": "官源 | 优酷",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "ext": "./js/youku.js"
+    },
+    {
+       "key": "drpy_js_腾讯视频",
+       "name": "官源 | 腾讯",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "ext": "./js/qq.js"
+    },
+    {
+       "key": "drpy_js_芒果TV",
+       "name": "官源 | 芒果",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "ext": "./js/mgtv.js"
     },
     {
       "key": "索尼",
@@ -88,6 +107,15 @@
       "changeable": 0
     },
     {
+      "key": "玩偶",
+      "name": "阿里 | 玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tv/token.txt$$$https://wogg.xyz/|104.16.245.50$$$1$$$./lib/wogg.json"
+    },
+    {
       "key": "七夜",
       "name": "阿里 | 七夜",
       "type": 3,
@@ -122,5 +150,43 @@
        "ext": "./lib/alist.json"
      }
   ],
-    "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+  "parses": [
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {   
+            "name": "ql",
+            "type": 0,
+            "url": "https://t1.qlplayer.cyou/player/?url="
+        },
+        {   
+            "name": "jy",
+            "type": 0,
+            "url": "https://jx.playerjy.com/?url="
+        },
+        {   
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "json",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "yemu",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url="
+        },
+        {
+            "name": "777",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        }
+    ],
+  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
