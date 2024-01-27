@@ -1,6 +1,5 @@
 {
   "spider": "./jar/custom_spider.jar;md5;2b4bff50bb61acef1e8f8654d9822f63",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆瓣",
@@ -201,4 +200,5 @@
      }
   ],
     "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+    "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
