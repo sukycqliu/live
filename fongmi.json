@@ -1,14 +1,12 @@
 {
   "spider": "./jar/custom_spider.jar;md5;7d13878c01ea655d716fd1aa39b0094e",
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "索引 | 豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": "./lib/douban.json"
+   {
+       "key": "drpy_js_豆瓣",
+       "name": "索引 | 豆瓣",
+       "type": 3,
+       "api": "./lib/drpy.min.js",
+       "ext": "./js/drpy.js"
     },
     {
        "key": "drpy_js_爱奇艺",
