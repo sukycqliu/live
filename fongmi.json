@@ -11,44 +11,13 @@
       "ext": "./lib/douban.json"
     },
     {
-      "key": "drpy_js_爱奇艺",
-      "name": "官源 | 爱奇艺",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/iqiyi.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "官源 | 优酷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/youku.js"
-    },
-    {
-      "key": "drpy_js_腾讯视频",
-      "name": "官源 | 腾讯",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/qq.js"
-    },
-    {
-       "key": "drpy_js_芒果TV",
-       "name": "官源 | 芒果",
-       "type": 3,
-       "api": "./lib/drpy2.min.js",
-       "ext": "./js/mgtv.js"
-    },
-    {
       "key": "玩偶",
       "name": "阿里 | 玩偶",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tv/token.txt",
-        "filter": "./lib/wogg.json"
-      }
+      "ext": "http://127.0.0.1:9978/file/tv/token.txt$$$https://wogg.xyz/|104.16.245.50$$$1$$$./lib/wogg.json"
     },
     {
       "key": "索尼",
@@ -119,17 +88,8 @@
       "changeable": 0
     },
     {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./lib/alist.json"
-    },
-    {
       "key": "七夜",
-      "name": "七夜",
+      "name": "阿里 | 七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -137,8 +97,8 @@
       "ext": "http://127.0.0.1:9978/file/tv/token.txt"
     },
     {
-      "key": "雲搜",
-      "name": "雲搜",
+      "key": "云搜",
+      "name": "阿里 | 云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -146,8 +106,8 @@
       "ext": "http://127.0.0.1:9978/file/tv/token.txt"
     },
     {
-      "key": "盤搜索",
-      "name": "盤搜索",
+      "key": "盘搜索",
+      "name": "阿里 | 盘搜",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -162,43 +122,5 @@
        "ext": "./lib/alist.json"
      }
   ],
-  "parses": [
-     {
-       "name": "聚合",
-       "type": 3,
-       "url": "Demo"
-     },
-     {   
-       "name": "ql",
-       "type": 0,
-       "url": "https://t1.qlplayer.cyou/player/?url="
-     },
-     {   
-       "name": "jy",
-       "type": 0,
-       "url": "https://jx.playerjy.com/?url="
-     },
-     {   
-       "name": "xmflv",
-       "type": 0,
-       "url": "https://jx.xmflv.com/?url="
-     },
-     {
-       "name": "json",
-       "type": 0,
-       "url": "https://jx.jsonplayer.com/player/?url="
-     },
-     {
-       "name": "yemu",
-       "type": 0,
-       "url": "https://www.yemu.xyz/?url="
-     },
-     {
-       "name": "777",
-       "type": 0,
-       "url": "https://jx.777jiexi.com/player/?url="
-     }
-  ],
-    "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
