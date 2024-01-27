@@ -36,6 +36,7 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/mgtv.js"
         },
+        {
             "key": "Xinsj",
             "name": "影视 | 视觉┃",
             "type": 3,
@@ -73,6 +74,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
+        {
             "key": "DiDuan",
             "name": "影视 | 低端┃",
             "type": 3,
@@ -158,6 +160,7 @@
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tv/token.txt$$$https://wogg.xyz/"
         },
+        {
             "key": "Dovx",
             "name": "阿里 | 七夜┃",
             "type": 3,
