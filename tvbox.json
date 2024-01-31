@@ -2,38 +2,39 @@
     "spider": "./jar/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
     "sites": [
         {
-            "key": "drpy_js_豆瓣",
+            "key": "Douban",
             "name": "索引 | 豆瓣",
             "type": 3,
-            "api": "./lib/drpy.min.js",
-            "ext": "./js/drpy.js"
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "changeable": 1
         },
         {
             "key": "drpy_js_爱奇艺",
             "name": "官源 | 爱奇艺",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./js/iqiyi.js"
         },
         {
             "key": "drpy_js_优酷",
             "name": "官源 | 优酷",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./js/youku.js"
         },
         {
             "key": "drpy_js_腾讯视频",
             "name": "官源 | 腾讯",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./js/qq.js"
         },
         {
             "key": "drpy_js_芒果TV",
             "name": "官源 | 芒果",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./js/mgtv.js"
         },
         {
@@ -99,21 +100,21 @@
             "key": "drpy_js_网飞.TV",
             "name": "影视 | 网飞",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./js/wftv.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "影视 | LIBVIO",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./js/libvio.js"
         },
         {
             "key": "drpy_js_量子资源",
             "name": "采集 | 量子",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./js/lzcaiji.js"
         },
         {
@@ -130,7 +131,7 @@
             "key": "drpy_js_酷奇MV",
             "name": "MV | 酷奇",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./js/kqmv.js"
         },
         {
