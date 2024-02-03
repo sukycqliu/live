@@ -2,14 +2,10 @@
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
    {
-      "name": "🙋丫仙女",
-      "server": "http://110.41.48.42:5678/",
+      "name": "小雅",
+      "server": "http://74.48.21.83:5678/",
       "hidden": false,
-      "search": true,
-      "login": {
-            "username": "guest"
-            "password": "guest_Api789"
-         }
+      "search": true
    },
    {
        "name": "小新",
