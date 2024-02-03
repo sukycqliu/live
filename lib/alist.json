@@ -3,25 +3,25 @@
   "drives": [
    {
       "name": "🙋丫仙女",
-      "server": "http://alist.xiaoya.pro/",
-      "startPage": "/",
-      "showAll": false,
+      "server": "http://110.41.48.42:5678/",
+      "hidden": false,
       "search": true,
-      "headers": {
-         "Authorization": ""
-      },
-      "params": {
-         "/abc": {
-            "password": "123"
-         },
-         "/abc/abc": {
-            "password": "123"
+      "login": {
+            "username": "guest"
+            "password": "guest_Api789"
          }
-      }
    },
    {
        "name": "小新",
        "server": "https://pan.cdnxin.top/"
+   },
+   {
+       "name": "ECVE",
+       "server": "https://pan.ecve.cn"
+   },
+   {
+       "name": "Mediy",
+       "server": "https://pan.mediy.cn/"
    },
    {
        "name": "鹏程",
@@ -74,6 +74,10 @@
    {
         "name": "随意",
         "server": "https://apps.weixinqqq.com/"
+   },
+   {
+        "name": "9T",
+        "server": "https://drive.9t.ee/"
    },
    {
         "name": "福利",
