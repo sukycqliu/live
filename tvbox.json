@@ -175,6 +175,13 @@
             "ext": "http://127.0.0.1:9978/file/tv/token.txt"
         }
     ],
+    "lives": [
+        {
+            "name": "ipv6",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+        }
+    ],
     "parses": [
         {
             "name": "聚合",
