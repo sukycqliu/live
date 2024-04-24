@@ -1,11 +1,11 @@
-// 永久网址：https://libviohd.com
+// 永久网址：https://libvio.app
 muban.首图2.二级.title = 'h1&&Text;.data:eq(0)&&Text'
 muban.首图2.二级.desc = '.data.hidden-xs&&Text;;;.data:eq(1)&&Text;.data:eq(4)&&Text'
 muban.首图2.二级.content = '.detail-content&&Text'
 var rule = {
-	title:'Libvio',
+	title:'LIBVIO',
 	模板:'首图2',
-	host:'https://libvio.fun',
+	host:'https://www.libvio.app',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a:eq(1)&&href");print(src);HOST=src',
 	// url:'/type/fyclass-fypage.html',
 	url:'/show/fyclassfyfilter.html',
