@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+    "spider": "./jar/fan.txt;md5;4af14dca6964a737a88b982cb8b20055",
     "sites": [
         {
             "key": "Douban",
@@ -133,16 +133,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tv/token.txt$$$https://wogg.xyz/"
-        },
-        {
-            "key": "Dovx",
-            "name": "阿里 | 七夜",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tv/token.txt"
         },
         {
             "key": "PanSearch",
