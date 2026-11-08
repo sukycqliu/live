@@ -2,7 +2,7 @@
  "sites":[
   {
    "key": "py_douban",
-   "name": "豆瓣[py]",
+   "name": "豆瓣",
    "type": 3,
    "api": "./py/douban.py",
    "changeable": 0,
@@ -11,13 +11,13 @@
   },
   {
    "key": "py_apples",
-   "name": "苹果[py]",
+   "name": "苹果",
    "type": 3,
    "api": "./py/apples.py"
   },
   {
    "key": "py_maple",
-   "name": "枫叶[py]",
+   "name": "枫叶",
    "type": 3,
    "api": "./py/maple.py",
    "searchable": 1,
@@ -27,7 +27,7 @@
   },
   {
    "key": "py_juzong",
-   "name": "剧踪[py]",
+   "name": "剧踪",
    "type": 3,
    "api": "./py/juzong.py",
    "searchable": 1,
@@ -35,17 +35,8 @@
    "filterable": 1
   },
   {
-   "key": "py_hongguo",
-   "name": "红果[py]",
-   "type": 3,
-   "api": "./py/hongguo.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "py_guazi",
-   "name": "瓜子[py]",
+   "name": "瓜子",
    "type": 3,
    "api": "./py/guazi.py",
    "searchable": 1,
@@ -54,53 +45,14 @@
    "ext": {}
   },
   {
-   "key": "py_pianku4k",
-   "name": "片库[py]",
-   "type": 3,
-   "api": "./py/pianku4k.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "py_huavod",
-   "name": "华视[py]",
-   "type": 3,
-   "api": "./py/huavod.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "py_如意",
-   "name": "如意[py]",
-   "type": 3,
-   "api": "./py/ruyishipin.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "py_8kvod",
-   "name": "酷客[py]",
+   "name": "酷客",
    "type": 3,
    "api": "./py/8kvod.py"
   },
   {
-   "key": "py_yysub",
-   "name": "人人[py]",
-   "type": 3,
-   "api": "./py/yysub.py"
-  },
-  {
-   "key": "py_ppnix",
-   "name": "PPnix[py]",
-   "type": 3,
-   "api": "./py/ppnix.py"
-  },
-  {
    "key": "py_libvio",
-   "name": "LIBVIO[py]",
+   "name": "LIBVIO",
    "type": 3,
    "api": "./py/libvio.py",
    "searchable": 1,
@@ -108,84 +60,8 @@
    "filterable": 1
   },
   {
-   "key": "py_wbbb",
-   "name": "歪比巴卜[py]",
-   "type": 3,
-   "api": "./py/wbbb.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "py_kkys",
-   "name": "可可追剧[py]",
-   "type": 3,
-   "api": "./py/kkys.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "py_bubuzhuiju",
-   "name": "布布追剧[py]",
-   "type": 3,
-   "api": "./py/bubuzhuiju.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "py_dsystv",
-   "name": "袋鼠影视[py]",
-   "type": 3,
-   "api": "./py/dsystv.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {
-    "host": "https://dsystv.com"
-   }
-  },
-  {
-   "key": "py_ysttv",
-   "name": "影视天堂[py]",
-   "type": 3,
-   "api": "./py/ysttv.py",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": {
-    "host": "https://ysttv.com",
-    "pageFmt": "",
-    "searchFmt": ""
-   }
-  },
-  {
-   "key": "py_xlys",
-   "name": "雪落影视[py]",
-   "type": 3,
-   "api": "./py/xlys.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {
-    "host": "https://v.xl.in.ua",
-    "pageFmt": ""
-   }
-  },
-  {
-   "key": "py_shanzha",
-   "name": "山楂影视[py]",
-   "type": 3,
-   "api": "./py/shanzha.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {}
-  },
-  {
    "key": "py_qiyoudy",
-   "name": "奇优影视[py]",
+   "name": "奇优影视",
    "type": 3,
    "api": "./py/qiyoudy.py",
    "searchable": 1,
@@ -193,52 +69,8 @@
    "filterable": 1
   },
   {
-   "key": "py_dantatv",
-   "name": "蛋挞影视[py]",
-   "type": 3,
-   "api": "./py/dantatv.py",
-   "searchable": 1,
-   "quickSearch": 0
-  },
-  {
-   "key": "py_yangguang",
-   "name": "阳光影视[py]",
-   "type": 3,
-   "api": "./py/yangguang.py",
-   "searchable": 0,
-   "quickSearch": 0
-  },
-  {
-   "key": "py_saohuo",
-   "name": "骚火影视[py]",
-   "type": 3,
-   "api": "./py/saohuo.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1
-  },
-  {
-   "key": "py_duoduo",
-   "name": "多多影视[py]",
-   "type": 3,
-   "api": "./py/duoduo.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1
-  },
-  {
-   "key": "py_oule",
-   "name": "欧乐影院[py]",
-   "type": 3,
-   "api": "./py/oule.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1
-  },
-  {
    "key": "py_juok3",
-   "name": "剧OK[py]",
+   "name": "剧OK",
    "type": 3,
    "api": "./py/juok3.py",
    "searchable": 1,
@@ -246,29 +78,15 @@
    "changeable": 1
   },
   {
-   "key": "1",
-   "name": "--- 1 ---"
-  },
-  {
    "key": "py_fqdm",
-   "name": "番茄动漫[py]",
+   "name": "番茄动漫",
    "type": 3,
    "api": "./py/fqdm.py",
    "playerType": 2
   },
   {
-   "key": "3",
-   "name": "--- 3 ---"
-  },
-  {
-   "key": "py_高清电影",
-   "name": "高清电影[py]",
-   "type": 3,
-   "api": "./py/高清电影.py"
-  },
-  {
-   "key": "py_金牌影院",
-   "name": "金牌影院[py]",
+   "key": "金牌影院",
+   "name": "金牌影院",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -278,96 +96,8 @@
    "ext": ""
   },
   {
-   "key": "py_奇优动漫",
-   "name": "奇优动漫[py]",
-   "type": 3,
-   "api": "./py/奇优动漫.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 5,
-   "ext": ""
-  },
-  {
-   "key": "py_粤漫动漫",
-   "name": "粤漫动漫[py]",
-   "type": 3,
-   "api": "./py/粤漫.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 5,
-   "ext": ""
-  },
-  {
-   "key": "py_jieyingshi",
-   "name": "界影视[py]",
-   "type": 3,
-   "api": "./py/jieyingshi.py",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "changeable": 0
-  },
-  {
-   "key": "py_aigua",
-   "name": "爱瓜TV[py]",
-   "type": 3,
-   "api": "./py/aigua.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 5,
-   "ext": ""
-  },
-  {
-   "key": "py_guowaiju",
-   "name": "国外剧情[py]",
-   "type": 3,
-   "api": "./py/guowaiju.py",
-   "quickSearch": 1,
-   "searchable": 1,
-   "filterable": 1
-  },
-  {
-   "key": "py_嗨皮",
-   "name": "嗨皮影视[py]",
-   "type": 3,
-   "api": "./py/嗨皮影视.py",
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 2
-  },
-  {
-   "key": "py_云端",
-   "name": "云端影视[py]",
-   "type": 3,
-   "api": "./py/云端影视.py",
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 2
-  },
-  {
-   "key": "py_云速",
-   "name": "云速影视[py]",
-   "type": 3,
-   "api": "./py/云速影视.py",
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 2
-  },
-  {
-   "key": "py_农牧",
-   "name": "农牧影视[py]",
-   "type": 3,
-   "api": "./py/农民影视.py",
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 2
-  },
-  {
    "key": "py_文才",
-   "name": "文才影视[py]",
+   "name": "文才影视",
    "type": 3,
    "api": "./py/文才影视.py",
    "searchable": 1,
@@ -376,19 +106,6 @@
    "ext": {
     "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
    }
-  },
-  {
-   "key": "py_4KAV",
-   "name": "4KAV[py]",
-   "type": 3,
-   "api": "./py/4KAV.py",
-   "quickSearch": 1,
-   "searchable": 1,
-   "filterable": 1
-  },
-  {
-   "key": "4",
-   "name": "--- 4 ---"
   },
   {
    "key": "360",
@@ -415,64 +132,6 @@
    "quickSearch": 1,
    "searchable": 1,
    "changeable": 1
-  },
-  {
-   "key": "无尽",
-   "name": "无尽 | 采集",
-   "type": 1,
-   "api": "https://api.wujinapi.net/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1
-  },
-  {
-   "key": "金鹰",
-   "name": "金鹰 | 采集",
-   "type": 1,
-   "api": "https://jyzyapi.com/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1
-  },
-  {
-   "key": "电影天堂",
-   "name": "天堂 | 采集",
-   "type": 1,
-   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "changeable": 0
-  },
-  {
-   "key": "ikun",
-   "name": "ikun | 采集",
-   "type": 1,
-   "api": "https://ikunzyapi.com/api.php/provide/vod/",
-   "playerType": 1,
-   "searchable": 1,
-   "changeable": 1
-  },
-  {
-   "key": "py_mifun",
-   "name": "MiFun｜动漫",
-   "type": 3,
-   "api": "./py/mifun.py",
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 2
-  },
-  {
-   "key": "py_yinhuaone",
-   "name": "樱花｜动漫",
-   "type": 3,
-   "api": "./py/yinhuaone.py",
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "8",
-   "name": "--- 8 ---"
   }
  ],
  "lives":[
